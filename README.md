@@ -69,41 +69,70 @@ ShoppingApp
 
 
 ---
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/KomalTrivedi257/ShoppingApp.git
+```
 
-2️⃣ Navigate into Project
+---
+
+### 2️⃣ Navigate into Project
+
+```bash
 cd ShoppingApp
+```
 
-3️⃣ Install Dependencies
+---
+
+### 3️⃣ Install Dependencies
+
+```bash
 npm install
+```
 
-4️⃣ Run the App
+---
+
+### 4️⃣ Run the App
+
+```bash
 npm start
+```
 
+Now open your browser and visit:
 
-App will run at:
-
+```
 http://localhost:3000
+```
 
-🚀 Deployment
+---
 
-This project is deployed on Vercel.
+## 🚀 Deployment
 
-🔗 https://shopping-app-mocha-chi.vercel.app
+This project is deployed on **Vercel**.
 
-📸 Screenshots
+🔗 **Live Demo:**  
+https://shopping-app-mocha-chi.vercel.app
 
-(Add your project screenshots here)
+---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
 ![Home Page](./screenshots/home.png)
+
+### 🛒 Cart Page
 ![Cart Page](./screenshots/cart.png)
 
-👩‍💻 Author
+---
 
-Komal Trivedi
+## 👩‍💻 Author
+
+**Komal Trivedi**
+
+- GitHub: https://github.com/KomalTrivedi257
+
+---
+
